@@ -19,6 +19,8 @@ The purpose of the project is to develop a potent AI that can give explicit winn
 
 The Chomp was developed using Python and PyGame. The player needs to install Python 2.7, Numpy and PyGame in order to run the game.
 
+To install PyGame, it is extremely easy if you are using pip, simply run "pip install pygame" in the terminal.
+
 To run the Chomp, run the command "python chomp_gui.py x m n" in termimal. 
 
 'x' designates who goes first in the game. It can be either 'Human' or 'AI'. 
