@@ -1,5 +1,7 @@
 # Chomp AI
+
 Author: Lei Mao
+
 Date: 3/25/2017
 
 ## Project Description
