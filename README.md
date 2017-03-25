@@ -39,10 +39,6 @@ Once the human player makes a mistake even if the human player goes first, the A
 
 The AI has its limit. Because it relies on the pre-calculated data, and the data was calculated for the board size no larger than AI_limit x AI_limit.
 
-## Acknowledgment
-
-I would like to thank Guotu Li for his function to calculate the total number of game states during AI development.
-
 ## Future Plan
 
 It might be good idea to add an interface layer asking the user to input game parameters in the GUI. 
@@ -51,3 +47,6 @@ The python game should also be compiled for the univeral usage in different syst
 
 However, for the time being I am not sure how to do the compiling and I have some other things to do, I just have to put this aside. Any suggestions will be appreciated.
 
+## Acknowledgment
+
+I would like to thank Guotu Li for his function to calculate the total number of game states during AI development.
