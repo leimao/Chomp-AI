@@ -14,7 +14,7 @@ import numpy as np
 from chomp_ai import AI_data, AI_strategy
 
 # Define AI limit
-AI_limit = 8
+AI_limit = 12
 
 # Define some colors
 BLACK = (0, 0, 0)

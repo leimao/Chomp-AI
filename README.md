@@ -27,7 +27,7 @@ To run the Chomp, run the command "python chomp_gui.py x m n" in termimal.
 
 'm' and 'n' are the width and height of the rectangle. 'm' and 'n' are the positive integers no larger than AI_limit.
 
-In this version, the AI_limit is 8.
+In this version, the AI_limit is 12.
 
 ## About the AI
 

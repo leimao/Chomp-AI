@@ -98,7 +98,7 @@ if __name__ == '__main__':
     size_y = int(sys.argv[2])
 
     result_directory = 'data/'
-    data_file = 'p_positions_8x8.txt'
+    data_file = 'p_positions_12x12.txt'
     p_positions_file = result_directory + data_file
     
     p_positions = AI_data(p_positions_file = p_positions, board_size_x = size_x, board_size_y = size_y)
