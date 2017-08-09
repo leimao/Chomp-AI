@@ -21,7 +21,10 @@ The Chomp was developed using Python and PyGame. The player needs to install Pyt
 
 To install PyGame, it is extremely easy if you are using pip, simply run "pip install pygame" in the terminal.
 
-To run the Chomp, run the command "python chomp_gui.py x m n" in termimal. 
+To run the Chomp, run the command in termimal:
+```shell 
+python chomp_gui.py x m n
+```
 
 'x' designates who goes first in the game. It can be either 'Human' or 'AI'. 
 
