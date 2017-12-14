@@ -14,6 +14,9 @@ Chomp is actually a classic discrete mathematics problem. The player goes first 
 
 The purpose of the project is to develop a potent AI that can give explicit winning strategy during the game.
 
+## Update
+
+12/13/2017: The Chomp now supports Python 3! The source codes are in the "Chomp_AI_py3" directory.
 
 ## Run the Game
 
